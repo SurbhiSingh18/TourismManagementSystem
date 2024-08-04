@@ -1,0 +1,35 @@
+.head{
+    font-size: 3rem;
+margin-left:28%;
+font-weight: 800;
+margin-bottom:20px;
+text-decoration: underline;
+}
+h{
+    font-size:1.5rem;
+    color: maroon;
+
+}
+li{
+    margin-bottom: 10px;
+}
+h2{
+    font-size: 1.8rem;
+    font-weight: 700;
+   
+}
+h3{
+    font-size: 1.4rem;
+    font-size: 650;
+}
+.fp{
+    font-size: 2rem;
+    margin-top: 8%;
+font-style: italic;
+}
+.main{
+    background-image: url(https://www.shutterstock.com/image-photo/blur-beautiful-nature-green-palm-260nw-675036163.jpg);
+    background-size: cover;
+    height:1500px;
+    width: 100%;
+}
